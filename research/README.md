@@ -61,6 +61,8 @@ No raw page text is committed. The URL plus the access method is the provenance.
 
 ## Rules for gatherers
 
+- **Read every item in full, to the last word.** Don't truncate posts, skim, keyword-scan, sample, stop at saturation, or triage by title. `read` and `read-no-claims` in the coverage log mean every word was read. Anything less is not coverage.
+- A Known gap is only something truly unreachable (HTTP error, no content exists), logged with the exact error. Anything behind a login is out of scope.
 - Record claims. Don't resolve conflicts. When two sources disagree, record both claims and add a line under Conflicts noticed. Resolution happens in grilling, later.
 - Leave out commentary and recommendations, and don't synthesize across files.
 - Cover public content only. List paywalled or members-only material under Known gaps.
