@@ -312,7 +312,27 @@ Dates: no note shows a publication date, so every date is `unknown`. Claims pref
 
 ## Conflicts noticed
 
-_Pending._
+- Structure (09 conflict, new 13 ids): delay fixing an organization, topic index card only once slips have merged, clusters emerge by themselves (13-088, 13-090, 13-106) vs. add every new note to an outline, creating one if needed (13-074, 13-082).
+- Gap-filling (09 conflict, new 13 id): an outline item with too few notes shows where to focus research (13-147) vs. Ahrens, quoted: do not write just to bridge a gap in a note sequence (09-133).
+- Audience (09 conflict, new 13 ids): write working notes as if just for yourself, with idiosyncratic labels (13-202, 13-107) vs. knowing others will read your working notes supplies creative context (13-200) vs. notes shared in conversation and compared across people (13-030, 13-066).
+- Writing about reading (09 conflict, new 13 ids): without writing about what you read you won't do your own thinking, networked thinking impossible without writing (13-127, 13-131) vs. the most effective readers he knows take no notes, effective thinkers who don't write notes (13-130, 13-003) vs. marginal benefit of preparatory note-writing declines as a writer grows confident (13-197).
+- Tags (09 conflict, new 13 ids): tags ineffective, extra markup on slips increased confusion (13-015, 13-104, 13-091) vs. a special tag marking key insights so review resurfaces them (13-100).
+- Literature notes (09 conflict, new 13 ids): secondary and separate, a quick summary whose value is already absorbed elsewhere (13-266, 13-277) vs. about 30% of reading time on a notes pass, 3-5 pages per 100 pages (13-167, 13-168) vs. reading notes that let you reconstruct the narrative, not just takeaways (13-020) vs. starting points for walking your notes from a reference (13-267).
+- Reading-note structure: reconstruct the essay's narrative (13-020) vs. clusters orthogonal to the book's outline (13-164) and structure need not match the book (09-141).
+- When to write while reading: write durable notes continuously while reading (13-143) vs. collect lightly while reading and process later (09-181, 13-280).
+- Book notes vs. own notes: write evergreen notes on the backlog of read texts when prompts are unfruitful (13-253) vs. reserve prime writing time for your own notes, since book notes crowd them out (13-119, 13-120).
+- Directed writing: starting from a conclusion, angle, or hypothesis distorts thinking, develop bottom-up (13-069, 13-070, 13-080) vs. directed version starts from a topic and an outline (09-069).
+- Purpose of notes: writing projects emerge from notes made without specific intention (13-083) vs. notes written for an abstract future rather than a live project feel dull and like a duty (13-199).
+- Recombining prose: small resequenceable chunks beat serial form, a draft is rearranged notes (13-086, 13-243) vs. transcluded prose blocks come out disjointed because prose depends on arc and context (13-135).
+- Resurfacing notes: tools should resurface old or forgotten relevant items (13-044, 13-043) vs. search and links suffice, automatic resurfacing unnecessary (13-210) vs. scheduled resurfacing produced noise and felt meaningless (13-207, 13-208).
+- Writing-inbox resurfacing: prompts resurfaced on a schedule let responses accumulate (13-101) vs. a spaced-repetition writing inbox fails because the prompt is the same and the context is gone (13-169, 13-170).
+- Prompts inside notes: embed spaced-repetition prompts in prose notes, cloze feels natural (13-072) vs. interleaved or duplicated prompts make notes disjointed and noisy (13-099, 13-206).
+- Discarding: aggressively drop or toss items (13-048, 13-152) and archive or delete uninteresting inbox notes (09-065) vs. keep a JUNK pile rather than discarding (13-097).
+- Automatic capture: an automatic procedure for capturing references (09-058) vs. automatically imported items dilute intentional ones and bloat the inbox (13-282, 13-283).
+- Paper notebooks: develop ideas in a paper notebook for deeper focus (13-112) vs. fleeting notebook sketches too lossy (13-023) and notebook ideas scatter notes (13-013).
+- What notes are for: slips let you forget (13-087) vs. dense linking internalizes ideas more deeply (13-173) and writing about a text internalizes it (09-046).
+- Staleness: each note reflects current best thinking, unrevised notes become liability (13-186, 13-189) vs. review follows present interests, abandoned topics mostly never revisited (09-084).
+- New tags used: none beyond those already listed in 09.
 
 ## Coverage log
 
